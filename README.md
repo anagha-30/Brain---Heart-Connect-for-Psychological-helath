@@ -15,6 +15,9 @@ AdaBoost, Nearest Neighbour, Random Forest, Decision Tree, Linear SVM, RBF SVM, 
 Visualization: Ploty, MatplotLib, Seaborn
 
 ## RESULT:
+### 
 Adaboost has a F score of 0.97 but the runtime was found to be 3.9ms
+###
 Nearest Neighbour has a F score of 0.86 but the runtime is 2ms.
+###
 AdaBoost has better accuracy while Nearest Neighbour has a better mean runtime.
