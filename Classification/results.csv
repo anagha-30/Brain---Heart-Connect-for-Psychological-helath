@@ -1,0 +1,10 @@
+,name,mean_score,mean_runtime
+0,Nearest Neighbors,0.683333,0.002238
+1,Linear SVM,0.666667,0.000299
+2,RBF SVM,0.741667,0.000499
+3,Gaussian Process,0.691667,0.000299
+4,Decision Tree,0.916667,0.000399
+5,Random Forest,0.9,0.000997
+6,Neural Net,0.633333,0.000399
+7,AdaBoost,0.975,0.003941
+8,Naive Bayes,0.566667,0.000598
