@@ -4,10 +4,14 @@ A Project that understands psychological health with a relational study of EEG a
 The Project has been taken as a reference from the 2018 IEEE paper: "DREAMER" by S. Katsigiannis, N. Ramzan.
 
 ## DETAILS:
-IDE: Jupiter Notebook
-Dataset: DREAMER Dataset
-Preprocessing: Neurokit
-Models used: AdaBoost, Nearest Neighbour, Random Forest, Decision Tree, Linear SVM, RBF SVM, Neural Net, Naive Bayes
+### IDE: 
+Jupiter Notebook
+### Dataset: 
+DREAMER Dataset
+### Preprocessing: 
+Neurokit
+### Models used: 
+AdaBoost, Nearest Neighbour, Random Forest, Decision Tree, Linear SVM, RBF SVM, Neural Net, Naive Bayes
 Visualization: Ploty, MatplotLib, Seaborn
 
 ## RESULT:
